@@ -6,6 +6,7 @@ A simple console-based chat application built with Python using socket and threa
 
 ## 🧠 Features
 
+![alt text](.github/image.png)
 - Multiple clients can connect to the server simultaneously.
 - Real-time message broadcasting to all connected clients.
 - Nickname identification for each user.
@@ -96,7 +97,6 @@ Alice joined the chat!
 Alice: Hello everyone!
 Bob: Hi Alice!
 ```
-
 ---
 
 ## ⚠️ Limitations & Notes
